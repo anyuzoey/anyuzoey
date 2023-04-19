@@ -7,7 +7,7 @@ A brief overview of my interests and expertise:
 - 👯 Open to collaborating on engaging data science projects.
 - 🤔 Seeking guidance on creating a simple ChatGPT application with custom data.
 - 💬 Extensive knowledge in DL-based fault interpretation from literature review and 4+ years of research.
-- 📫 Contact: [email]@gmail.com
+- 📫 Contact: an.yu.zoey@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Job search: Actively looking for opportunities! Please reach out with suitable positions. Thanks!
 
