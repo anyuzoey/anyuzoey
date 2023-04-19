@@ -6,7 +6,7 @@ A brief overview of my interests and expertise:
 - 🌱 Actively learning about fine-tuning downstream ChatGPT applications.
 - 👯 Open to collaborating on engaging data science projects.
 - 🤔 Seeking guidance on creating a simple ChatGPT application with custom data.
-- 💬 Extensive knowledge in DL-based fault interpretation from literature review and 4+ years of research.
+- 💬 Feel free to ask me about DL-based fault interpretation. I have extensive knowledge on this topic, thanks to a systematic literature review and 4+ years of personal research experience.
 - 📫 Contact: https://www.linkedin.com/in/yu-an/
 - 😄 Pronouns: she/her
 - ⚡ Job search: Actively looking for opportunities! Please reach out with suitable positions. Thanks!
