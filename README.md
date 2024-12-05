@@ -2,6 +2,8 @@
 
 A brief overview of my interests and expertise:
 
+For anyone came here because of my research during my PhD, I'm sorry to inform you that my research email is terminated after I left school. Please contact me through linkedin (this one should be faster) or here. 
+
 - 🔭 Working on applying CNN-based deep learning to geoscience images for fault interpretation.
 - 🌱 Actively learning about fine-tuning downstream ChatGPT applications.
 - 👯 Open to collaborating on engaging data science projects.
