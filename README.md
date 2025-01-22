@@ -2,16 +2,12 @@
 
 A brief overview of my interests and expertise:
 
-For anyone came here because of my research during my PhD, I'm sorry to inform you that my research email is terminated after I left school. Please contact me through linkedin (this one should be faster) or here. 
+For anyone came here because of my research during my PhD, I'm sorry to inform you that my research email and school email are terminated after I left school. Please contact me through linkedin (this one should be faster) or here. 
 
-- 🔭 Working on applying CNN-based deep learning to geoscience images for fault interpretation.
-- 🌱 Actively learning about fine-tuning downstream ChatGPT applications.
-- 👯 Open to collaborating on engaging data science projects.
-- 🤔 Seeking guidance on creating a simple ChatGPT application with custom data.
+- 🌱 Actively learning about GenAI applications.
 - 💬 Feel free to ask me about DL-based fault interpretation. I have extensive knowledge on this topic, thanks to a systematic literature review and 4+ years of personal research experience.
 - 📫 Contact: https://www.linkedin.com/in/yu-an/
 - 😄 Pronouns: she/her
-- ⚡ Job search: Actively looking for opportunities! Please reach out with suitable positions. Thanks!
 
 
 ### Top Repositories I'm Proud Of:
